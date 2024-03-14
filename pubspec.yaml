@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  pointer_interceptor: ^0.10.1
+  pointer_interceptor: ^0.9.3+6
 
 dev_dependencies:
   flutter_test:
